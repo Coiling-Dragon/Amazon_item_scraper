@@ -17,8 +17,8 @@ def Amazon_Login():
     lnk = f'https://sellercentral.amazon.com/signin'
     driver.get(lnk)
 
-    email = 'dean.rusinov@gmail.com'
-    password = '155793Ko!'
+    email = 'censored@gmail.com'
+    password = 'censored'
 
     css = driver.find_element_by_css_selector
 
